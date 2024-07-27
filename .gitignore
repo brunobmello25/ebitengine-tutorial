@@ -1,2 +1,4 @@
 tmp/*
 *.zip
+**/*.tiled-project
+**/*.tiled-session
